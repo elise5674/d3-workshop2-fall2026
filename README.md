@@ -70,7 +70,7 @@ git push
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
 
->
+> For the 2025 Japanese Grand Prix, the driver who differed most from the winner's strategy was STR (last place) because he used soft then hard then medium tires whereas the winner used medium then hard tires. For the 2025 British Grand Prix, the driver who differed most from the winner's strategy was RUS because he started with heavy tires then intermediate then hard again whereas the winner only used intermediate and medium tires. For the 2025 Dutch Grand Prix, the driver who differed most from the winner's strategy was VER (second place) because he used soft then medium then soft tires again whereas the winner used medium then hard tires (no soft tires). 
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
