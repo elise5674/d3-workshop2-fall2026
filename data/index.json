@@ -19,5 +19,12 @@
     "year": 2025,
     "meeting_key": 1267,
     "file": "races/2025-dutch.json"
+  },
+  {
+    "id": "2026-miami",
+    "label": "Miami Grand Prix 2026",
+    "year": 2026,
+    "meeting_key": 1284,
+    "file": "races/2026-miami.json"
   }
 ]

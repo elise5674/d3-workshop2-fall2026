@@ -74,11 +74,11 @@ git push
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
-> 
+> For the Japanese Grand Prix, the race trace shows the direction in which the race begins. It also shows that there are two main straighaways (one at the begining of the race and one in the middle of the race) and several slight curves with only one quite dramatic U-turn. These features of the track may cause lap times to be faster on average compared to other races, which would not be apparent as to why from just looking at the race times. 
 
 **Bonus** (optional): which race did you add, and why?
 
-> 
+> I added the 2026 Miami race to the script because I wanted to include a race from this year and I wanted to include a race from a country that was not already represented in the data. The Miami Grand Prix also tends to be a slightly faster than average race, so I was interested in how the tyre strategies compared. 
 
 ---
 
