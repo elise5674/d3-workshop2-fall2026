@@ -129,7 +129,7 @@ onRaceChange(race => {
             exit => exit.transition().duration(duration).attr('opacity', 0).remove()
         );
 
-    const barWidth = d => x(d.lap_end) - x(d.lap_start); //x(d.lap_start-1?)
+    const barWidth = d => x(d.lap_end) - x(d.lap_start - 1); //x(d.lap_start-1?)
 
 
      // TODO STEP 4: Position each rect and color it by compound (the colors are in css/style.css)

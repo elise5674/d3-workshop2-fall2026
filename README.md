@@ -74,11 +74,11 @@ git push
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
->
+> 
 
 **Bonus** (optional): which race did you add, and why?
 
->
+> 
 
 ---
 
