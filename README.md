@@ -78,7 +78,7 @@ git push
 
 **Bonus** (optional): which race did you add, and why?
 
-> I added the 2026 Miami race to the script because I wanted to include a race from this year and I wanted to include a race from a country that was not already represented in the data. The Miami Grand Prix also tends to be a slightly faster than average race, so I was interested in how the tyre strategies compared. 
+> I added the 2026 Miami race to the script because I wanted to include a race from this year and I wanted to include a race from a country that was not already represented in the data. The Miami Grand Prix race also tends to be slightly faster than average, so I was interested in how the tyre strategies compared. 
 
 ---
 
